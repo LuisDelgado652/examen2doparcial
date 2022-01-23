@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121408509431",
+    "project_id": "movilsegundoparcial",
+    "storage_bucket": "movilsegundoparcial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121408509431:android:6c4cb05d2271539a480af2",
+        "android_client_info": {
+          "package_name": "facci.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121408509431-ngtohdmm8emd0vk9daqds0b8og1pep79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfDhtep7UVSrDKCxhctPq33encQ-MFec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121408509431-ngtohdmm8emd0vk9daqds0b8og1pep79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
